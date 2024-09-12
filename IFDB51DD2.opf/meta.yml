@@ -4,14 +4,14 @@ ocr_import_info:
   source: bdrc
   ocr_info:
     timestamp: '2023-02-01T00:00:00Z'
-  batch_id: batch-0002
+  batch_id: batch-0001
   software_id: norbuketaka
   expected_default_language: bo
   op_import_options: null
 default_language: bo
 source: https://library.bdrc.io
 initial_creation_type: ocr
-imported: 2023-03-08 21:01:02.807503
+imported: 2024-09-12 14:04:02.610755
 last_modified: 2023-02-01 00:00:00+00:00
 parser: https://github.com/OpenPecha/Norbu-Keta-eText-import/blob/main/norbu_ketaka_parser.py
 source_metadata:
